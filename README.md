@@ -17,3 +17,6 @@ Et c'est parti !
 
 N'oublier pas de laisser les crédits 😔 !
 
+# Serveur Support de DevBot's : https://discord.gg/pxWaNQnUdc
+
+
