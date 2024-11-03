@@ -1,7 +1,7 @@
 # devbots-v1
 Open-source DevBot's V1
 
-Hey ! 
+YO ! 
 
 Comment utiliser DevBot's V1 !
 
@@ -15,7 +15,7 @@ Comment utiliser DevBot's V1 !
 
 Et c'est parti !
 
-N'oublier pas de laisser les crédits 😔 !
+N'oublier pas de laisser les crédits !
 
 # Serveur Support de DevBot's : https://discord.gg/pxWaNQnUdc
 
